@@ -1,2 +1,2 @@
 # Book_Store_Analysis
-Book store analysis using Postgresql and solving multiple questions 
+PostgreSQL Bookstore Database Project | SQL queries, data analysis, joins, aggregations, and customer/order insights.
